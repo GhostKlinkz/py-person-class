@@ -27,3 +27,4 @@ def create_person_list(people: list) -> list:
         person_instances.append(person_instance)
         
     return person_instances
+
